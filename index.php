@@ -2,19 +2,19 @@
 
 echo "Hello World!<br>";
 
-$nama = "Michelle Febi Syalom Hansang";
+$nama = "Claudia Martin";
 $umur = 20;
 
 echo "Nama saya <strong>$nama</strong>, saya $umur tahun.<br>";
 
-$namaKakak = "Eirene";
-$umurKakak = 32;
+$namaAdek = "Meylani";
+$umurAdek = 17;
 
-echo "Nama Kakak saya <strong>$namaKakak</strong>, Kakak saya berusia $umurKakak tahun.<br>";
+echo "Nama Adek saya <strong>$namaAdek</strong>, Adek saya berusia $umurAdek tahun.<br>";
 
 
-$selisihUmur = $umur - $umurKakak;
+$selisihUmur = $umur - $umurAdek;
 
-echo "Selisih usia saya dan Kakak saya adalah $selisihUmur tahun";
+echo "Selisih usia saya dan Adik saya adalah $selisihUmur tahun";
 
 ?>
