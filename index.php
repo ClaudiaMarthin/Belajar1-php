@@ -10,7 +10,7 @@ echo "Nama saya <strong>$nama</strong>, saya $umur tahun.<br>";
 $namaAdek = "Meylani";
 $umurAdek = 17;
 
-echo "Nama Adek saya <strong>$namaAdek</strong>, Adek saya berusia $umurAdek tahun.<br>";
+echo "Nama Adek saya <strong>$namaAdek</strong>, Adek saya berusia $umurAdekgit tahun.<br>";
 
 
 $selisihUmur = $umur - $umurAdek;
